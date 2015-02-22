@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Terms of Service
+title: Terms of Service (TOS)
 ---
 
-<h1>Terms of Service (TOS)</h1>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png" width="200" align="right" style="padding: 15px;" /></p>
 <p>A Terms of Service (TOS) for an API can be one of the single most important building blocks for any API ecosystem. The TOS sets the tone for the entire conversation between API provider and consumer.</p>
 
@@ -12,88 +11,3 @@ title: Terms of Service
 <p>As the pace quickens within the API economy, the need for standardization in area of TOS will increase. This project is meant to understand various efforts and bring them together in a single area.</p>
 
 <p>If you know of anything I should be paying attention to, let me kow.</p>
-
-{% raw  %}
-<script id="companyListingTemplate" type="text/template">       
-    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
-        <a href="companies-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
-        <a href="companies-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{summary}}... <a href="companies-detail.html?id={{id}}">details</a>.
-    </li>                                                                                               
-</script>
-{% endraw %}
-
-<p><a id="jsonlink" href="/data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
-<h3>Companies</h3>
-<div style="padding-left: 10px; padding-right: 10px; width:550px;">
-     <ul id="companyListing" style="padding-left: 30px;"></ul>
-</div>  
-
-<script type="text/javascript">
-function listCompanies()
-    {
-    $.getJSON('/data/companies.json', function(data) {
-        toggle = 0;
-         $.each(data['company'], function(key, val) {
-            var template = $('#companyListingTemplate').html();
-            var html = Mustache.to_html(template, val);
-            $('#companyListing').append(html);                          
-            });
-        });
-    } 
-</script>
-
-<script type="text/javascript">
-listCompanies();
-</script>
-
-<h3>Tools</h3>
-<p><a id="jsonlink" href="data/tools.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
-
-<script type="text/javascript">
-
-function listTools(tag,listing)
-    {
-        
-    $.getJSON('data/tools.json', function(data) {
-
-         $.each(data['tools'], function(key, val) {
-             
-            thesetags = val['tags'];
-            
-            if(thesetags.indexOf(tag) !=-1) {           
-                var template = $('#toolListingTemplate').html();
-                var html = Mustache.to_html(template, val);
-                $('#'+listing).append(html);   
-                }     
-                                  
-            });
-        });
-        
-    } 
-</script>
-
-<!-- Begin List API Design companies--->
-{% raw  %}
-<script id="toolListingTemplate" type="text/template">       
-    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
-        <a href="tools-detail.html?id={{id}}"><img src="{{logo}}" width="{{width}}" align="left" style="padding: 15px;" /></a>
-        <a href="tools-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{details}}... <a href="tools-detail.html?id={{id}}">details</a>.
-    </li>                                                                                               
-</script>
-{% endraw %}
-
-<!-- End List API Design companies--->
-<div style="padding-left: 10px; padding-right: 10px; width:550px;">
-     <ul id="TOSListing" style="padding-left: 30px;"></ul>
-</div>  
-<script type="text/javascript">
-    listTools('TOS','TOSListing');
-</script>
-
-<hr />
-<!-- 3scale -->
-<p align="center">
-    <a href="http://bit.ly/13esk6Q" target="_blank" title="APIs From 3Scale">
-        <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
-    </a>        
-</p> 
