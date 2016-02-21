@@ -1,6 +1,6 @@
 [
 	{
-		"category_name": "Core Considerations",
+		"category_name": "Key Considerations",
 		"building_blocks": [
 			{
 				"building_block_id": "JKYd8bWquqf0GdMKLLhwVGQTlWRVHE6Dd0iFia0123WBo117",
@@ -8,7 +8,7 @@
 				"name": "Sites Covered",
 				"about": "What sites are covered via the terms of use. Even if there is a single, provide a basic reference to the domain. If there are multiple domains, make sure and list them. Also consider subdomains that might be a consideration.",
 				"category_id": "254",
-				"category": "Core Considerations",
+				"category": "Key Considerations",
 				"category_about": "I only have a single bucket for my API terms of service research. I'm still gathering data about terms of service for popular providers, and eventually, I will have more of a breakdown by category.",
 				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png",
 				"category_hex": "#6E3219",
@@ -32,7 +32,7 @@
 				"name": "Opting Out",
 				"about": "What are the possibilities for opting out of services? Are there data sharing, licensing, or communication areas that can be opted out, or NOT opted out of.",
 				"category_id": "254",
-				"category": "Core Considerations",
+				"category": "Key Considerations",
 				"category_about": "I only have a single bucket for my API terms of service research. I'm still gathering data about terms of service for popular providers, and eventually, I will have more of a breakdown by category.",
 				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png",
 				"category_hex": "#6E3219",
@@ -53,7 +53,7 @@
 		]
 	},
 	{
-		"category_name": "Data",
+		"category_name": "Data & Information",
 		"building_blocks": [
 			{
 				"building_block_id": "wxaT4drMJeqCppK99fk4116oXAPE7sroQWHTy5YCFqjEo117",
@@ -61,7 +61,7 @@
 				"name": "How We Use Your Information",
 				"about": "Be clear about how information is used. Is it only used as part of operations. Provide straightforward explanations of how information is put to work to power the platform.",
 				"category_id": "289",
-				"category": "Data",
+				"category": "Data & Information",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -85,7 +85,7 @@
 				"name": "Personal Information",
 				"about": "What personal information is collected, stored, shared, and put to use? What are the security procedures, and other considerations for dealing with privacy of users personal information.",
 				"category_id": "289",
-				"category": "Data",
+				"category": "Data & Information",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -109,7 +109,7 @@
 				"name": "Non-Personal Information",
 				"about": "What are the considerations for all other content and data areas. This not personally identifiable information, but everything else.",
 				"category_id": "289",
-				"category": "Data",
+				"category": "Data & Information",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -133,7 +133,7 @@
 				"name": "Aggregate Information",
 				"about": "What information is aggregated, and what are the considerations when it comes to the platform terms of service.",
 				"category_id": "289",
-				"category": "Data",
+				"category": "Data & Information",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -157,7 +157,7 @@
 				"name": "Access To Information",
 				"about": "What levels of access are there. Is everything available via APIs or downloads, or are there restrictions around what you can get access to.",
 				"category_id": "289",
-				"category": "Data",
+				"category": "Data & Information",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -181,7 +181,7 @@
 				"name": "Accuracy of Information",
 				"about": "What are the expectations for accuracy of information available via the platform. What is the bar, and how is this level determined and enforced. ",
 				"category_id": "289",
-				"category": "Data",
+				"category": "Data & Information",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -202,7 +202,7 @@
 		]
 	},
 	{
-		"category_name": "Storage",
+		"category_name": "Information Storage",
 		"building_blocks": [
 			{
 				"building_block_id": "eoxW7UU03Wp6jjX0PLF8S123yMQROXQiBXxyhtrUq9kSI117",
@@ -210,7 +210,7 @@
 				"name": "Log Files",
 				"about": "Providing some details on how log files are used in platform operations, what is logged, and what isnt, and how things are collected, retained and shared.",
 				"category_id": "290",
-				"category": "Storage",
+				"category": "Information Storage",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -231,7 +231,7 @@
 		]
 	},
 	{
-		"category_name": "Tracking",
+		"category_name": "Tracking Used",
 		"building_blocks": [
 			{
 				"building_block_id": "O29alI5EZqPL5ah9aoJrUdpAgXnkx8xWkxViWQr116lnM117",
@@ -239,7 +239,7 @@
 				"name": "Cookies",
 				"about": "What are the cookie policies? How are cookies crafted, stored, and deprecated. Cover the cookie policies for a platform, and any connection to the API.",
 				"category_id": "291",
-				"category": "Tracking",
+				"category": "Tracking Used",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -260,7 +260,7 @@
 		]
 	},
 	{
-		"category_name": "Sharing",
+		"category_name": "Sharing Approaches",
 		"building_blocks": [
 			{
 				"building_block_id": "hX2djSK2rTKfQkt2kaUzLihTXBCqQqJGPZPwTiSy8to117",
@@ -268,7 +268,7 @@
 				"name": "Web Beacons",
 				"about": "Are web beacons in use? Are they return as part of API operations, and possibly required in all web and mobile deployments",
 				"category_id": "292",
-				"category": "Sharing",
+				"category": "Sharing Approaches",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -292,7 +292,7 @@
 				"name": "Partner Resources",
 				"about": "Are there any members-only and partner specific opportunities, and how do these different levels of access impact terms of service.",
 				"category_id": "292",
-				"category": "Sharing",
+				"category": "Sharing Approaches",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -316,7 +316,7 @@
 				"name": "Information Sharing",
 				"about": "How is information shared with partners, government, and any potentially external partners. Does this occur via the API, and how does this affect terms of service.",
 				"category_id": "292",
-				"category": "Sharing",
+				"category": "Sharing Approaches",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -337,7 +337,7 @@
 		]
 	},
 	{
-		"category_name": "Minors",
+		"category_name": "Concerns For Minors",
 		"building_blocks": [
 			{
 				"building_block_id": "Ixr6fmYJGIOFzgrPuXxVmRtVeKThFfbsWfXYHF99awE117",
@@ -345,7 +345,7 @@
 				"name": "Childrens Privacy Overview",
 				"about": "Are there any special considerations for childrens privacy. Will minors potentially be using the system, and what areas should be considered?",
 				"category_id": "293",
-				"category": "Minors",
+				"category": "Concerns For Minors",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -369,7 +369,7 @@
 				"name": "Childrens Online Privacy Protection Act (COPPA)",
 				"about": "Congress enacted the Childrenu2019s Online Privacy Protection Act (COPPA) in 1998.  COPPA required the Federal Trade Commission to issue and enforce regulations concerning childrenu2019s online privacy. ",
 				"category_id": "293",
-				"category": "Minors",
+				"category": "Concerns For Minors",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -390,7 +390,7 @@
 		]
 	},
 	{
-		"category_name": "Linking",
+		"category_name": "Linking To Other Sites",
 		"building_blocks": [
 			{
 				"building_block_id": "opoT0Nk4YCa4x7obeJg123fxigzuf4YPceNZVhsQlWKow117",
@@ -398,7 +398,7 @@
 				"name": "Links to Non-Operators Web Sites",
 				"about": "What are the levels of responsibility and liability when it comes to external links made available through platform operations.",
 				"category_id": "294",
-				"category": "Linking",
+				"category": "Linking To Other Sites",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
