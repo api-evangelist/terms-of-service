@@ -1,178 +1,421 @@
 [
 	{
-		"building_block_id": "UudeaWqrkVeZyaEGuj5mf116zr0XnjLmtYaHcLvaN12FKZ1231169JlVfdgj12372oWLR78JdDo8zzyBojejRRL5Xx1SHw117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Sites Covered",
-		"about": "",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Core Considerations",
+		"building_blocks": [
+			{
+				"building_block_id": "JKYd8bWquqf0GdMKLLhwVGQTlWRVHE6Dd0iFia0123WBo117",
+				"building_block_category_id": "g2FcpyBa89116Cmw9AgSauv2SR2gq4sFEepcgxMqu3zLA117",
+				"name": "Sites Covered",
+				"about": "What sites are covered via the terms of use. Even if there is a single, provide a basic reference to the domain. If there are multiple domains, make sure and list them. Also consider subdomains that might be a consideration.",
+				"category_id": "254",
+				"category": "Core Considerations",
+				"category_about": "I only have a single bucket for my API terms of service research. I'm still gathering data about terms of service for popular providers, and eventually, I will have more of a breakdown by category.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png",
+				"category_hex": "#6E3219",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "fga0CgYx8116jbX3116lPDgix4bNWxgQBxbm6116B9wQywMis117",
+				"building_block_category_id": "g2FcpyBa89116Cmw9AgSauv2SR2gq4sFEepcgxMqu3zLA117",
+				"name": "Opting Out",
+				"about": "What are the possibilities for opting out of services? Are there data sharing, licensing, or communication areas that can be opted out, or NOT opted out of.",
+				"category_id": "254",
+				"category": "Core Considerations",
+				"category_about": "I only have a single bucket for my API terms of service research. I'm still gathering data about terms of service for popular providers, and eventually, I will have more of a breakdown by category.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png",
+				"category_hex": "#6E3219",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "cAybI7ZvtU9VL1230OH8ugTJ4kUPgEcVVNk7123NReewbHocQgrEd2iyKwAQuIM3IH1lwigukIj9HvCbaYoCxgdMZA117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Childrens Privacy",
-		"about": "Are there any special considerations for children's privacy. Will minors potentially be using the system, and what areas should be considered?",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Data",
+		"building_blocks": [
+			{
+				"building_block_id": "wxaT4drMJeqCppK99fk4116oXAPE7sroQWHTy5YCFqjEo117",
+				"building_block_category_id": "Z5iy3hOVS123KCBv4eb123juKfhgOojmo4akgRLIUS0mehE117",
+				"name": "How We Use Your Information",
+				"about": "Be clear about how information is used. Is it only used as part of operations. Provide straightforward explanations of how information is put to work to power the platform.",
+				"category_id": "289",
+				"category": "Data",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "IWFkvUptNjNN8bF68yshkfUSZCJpSG8NBIiO8Z7Rv4w117",
+				"building_block_category_id": "Z5iy3hOVS123KCBv4eb123juKfhgOojmo4akgRLIUS0mehE117",
+				"name": "Personal Information",
+				"about": "What personal information is collected, stored, shared, and put to use? What are the security procedures, and other considerations for dealing with privacy of users personal information.",
+				"category_id": "289",
+				"category": "Data",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "ALJi9123Yrq5oBtlc9fPzj6vf10w1169RGtCue1162u3z0GC4117",
+				"building_block_category_id": "Z5iy3hOVS123KCBv4eb123juKfhgOojmo4akgRLIUS0mehE117",
+				"name": "Non-Personal Information",
+				"about": "What are the considerations for all other content and data areas. This not personally identifiable information, but everything else.",
+				"category_id": "289",
+				"category": "Data",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "cQBE123ZRxJmSnzBho1OqUb1tzZoJ4w0yWuEIj5Gt2Ow0117",
+				"building_block_category_id": "Z5iy3hOVS123KCBv4eb123juKfhgOojmo4akgRLIUS0mehE117",
+				"name": "Aggregate Information",
+				"about": "What information is aggregated, and what are the considerations when it comes to the platform terms of service.",
+				"category_id": "289",
+				"category": "Data",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "B1CrIf5KG0123RZ3G09TThkR4dc7qmb965zTPlTEkJTfY117",
+				"building_block_category_id": "Z5iy3hOVS123KCBv4eb123juKfhgOojmo4akgRLIUS0mehE117",
+				"name": "Access To Information",
+				"about": "What levels of access are there. Is everything available via APIs or downloads, or are there restrictions around what you can get access to.",
+				"category_id": "289",
+				"category": "Data",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "YFRro9rs1qgYPHa8gpHPiguses9E0ZK31E116JtMCkUhM117",
+				"building_block_category_id": "Z5iy3hOVS123KCBv4eb123juKfhgOojmo4akgRLIUS0mehE117",
+				"name": "Accuracy of Information",
+				"about": "What are the expectations for accuracy of information available via the platform. What is the bar, and how is this level determined and enforced. ",
+				"category_id": "289",
+				"category": "Data",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "MllF5QWLhHyWf4oxDvBsSeBkV2Bhf116P116dHvABgGN0hjGA116fYVekNM1AEcZwBlf548qLs2123TjmqfeM33Q5t7Djw117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Links to Non-Operators Web Sites",
-		"about": "What are the levels of responsibility and liability when it comes to external links made available through platform operations.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Storage",
+		"building_blocks": [
+			{
+				"building_block_id": "eoxW7UU03Wp6jjX0PLF8S123yMQROXQiBXxyhtrUq9kSI117",
+				"building_block_category_id": "u123ERD59iCpzygtL4Zq6DQqmD3bDvkXERWk9shcD123nvs117",
+				"name": "Log Files",
+				"about": "Providing some details on how log files are used in platform operations, what is logged, and what isnt, and how things are collected, retained and shared.",
+				"category_id": "290",
+				"category": "Storage",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "h5KMWYD4esREVCzRo64LUVdEhUqwhrnW0d9KOukmXzJM0fXkxx8jAjU73WPJRq7VPPc123r4hLA3VzvrwrGY66gg117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Non-Personal Information",
-		"about": "What are the considerations for all other content and data areas. This not personally identifiable information, but everything else.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Tracking",
+		"building_blocks": [
+			{
+				"building_block_id": "O29alI5EZqPL5ah9aoJrUdpAgXnkx8xWkxViWQr116lnM117",
+				"building_block_category_id": "7ZKWS116b7x3dgxmODAjsfb9jrWcl1MLiQLfywzkKx4Vc117",
+				"name": "Cookies",
+				"about": "What are the cookie policies? How are cookies crafted, stored, and deprecated. Cover the cookie policies for a platform, and any connection to the API.",
+				"category_id": "291",
+				"category": "Tracking",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "dUXQojGiv4W9auZ96PRSBFgEGIeNnav116plV9FkyzmbU1M0j78RXVAkAEiJgjVlK6LEmVuLcay5UXo0116WlSYKdQ117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Aggregate Information",
-		"about": "What information is aggregated, and what are the considerations when it comes to the platform terms of service.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Sharing",
+		"building_blocks": [
+			{
+				"building_block_id": "hX2djSK2rTKfQkt2kaUzLihTXBCqQqJGPZPwTiSy8to117",
+				"building_block_category_id": "ZAUmOeEvLdm78g85aM9ix0w123xYAxxuZrvXyOHlJTE116k117",
+				"name": "Web Beacons",
+				"about": "Are web beacons in use? Are they return as part of API operations, and possibly required in all web and mobile deployments",
+				"category_id": "292",
+				"category": "Sharing",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Wv5ibXEB42V2yPVnIZWAj3gJgQZA5sb5lwpEnOSzcnU117",
+				"building_block_category_id": "ZAUmOeEvLdm78g85aM9ix0w123xYAxxuZrvXyOHlJTE116k117",
+				"name": "Partner Resources",
+				"about": "Are there any members-only and partner specific opportunities, and how do these different levels of access impact terms of service.",
+				"category_id": "292",
+				"category": "Sharing",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "cVz6c7cftLKJZyFyy9BvduJ4ayJfco12360racFkJpJMQ117",
+				"building_block_category_id": "ZAUmOeEvLdm78g85aM9ix0w123xYAxxuZrvXyOHlJTE116k117",
+				"name": "Information Sharing",
+				"about": "How is information shared with partners, government, and any potentially external partners. Does this occur via the API, and how does this affect terms of service.",
+				"category_id": "292",
+				"category": "Sharing",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "CZw7BdWsfSP6kjtOAzU6IQqlmxyOXBhXbAO6OrAwC3tx2x123PVvpE81wy116YZG123Wbt2q6YxXmlZwRLKvCIpUrjuQ117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Log Files",
-		"about": "Providing some details on how log files are used in platform operations, what is logged, and what isn't, and how things are collected, retained and shared.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Minors",
+		"building_blocks": [
+			{
+				"building_block_id": "Ixr6fmYJGIOFzgrPuXxVmRtVeKThFfbsWfXYHF99awE117",
+				"building_block_category_id": "CXu7VKNk116I5ibYSvh2123yT1MkeY8HVfgE7uXrwcNOUMI117",
+				"name": "Childrens Privacy Overview",
+				"about": "Are there any special considerations for childrens privacy. Will minors potentially be using the system, and what areas should be considered?",
+				"category_id": "293",
+				"category": "Minors",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "D0Js0Nz1232VX4wnHnDoinTgET7gnZFeVpvDoM0NBFbQQ117",
+				"building_block_category_id": "CXu7VKNk116I5ibYSvh2123yT1MkeY8HVfgE7uXrwcNOUMI117",
+				"name": "Childrens Online Privacy Protection Act (COPPA)",
+				"about": "Congress enacted the Childrenu2019s Online Privacy Protection Act (COPPA) in 1998.  COPPA required the Federal Trade Commission to issue and enforce regulations concerning childrenu2019s online privacy. ",
+				"category_id": "293",
+				"category": "Minors",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "CEFRFerdNL46uHWE7X586YCjWedWUjVKbgd9Zpewl12388weKdl0ZN6yTTvwKZLAdFsPXgSQvlDWY0URCwKJ123CgQ117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Cookies",
-		"about": "",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "lQp0h2x116AOA116l123uktvvisdwb0bENRHSPC0Gkdr81Z8ebiWUzSCEv02oS0XbvQO5t8zEgJQca882IomfNYMduIA117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Web Beacons",
-		"about": "Are web beacons in use? Are they return as part of API operations, and possibly required in all web and mobile deployments",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "3A2RBEWwWwADr1brEHt27gyD0vTNkNjVSL07DTDsuwuaWzPftJ02AVj8cxbUW123NseggyE1oqeFRqS123NG82Dmdg117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Personal Information",
-		"about": "What personal information is collected, stored, shared, and put to use? What are the security procedures, and other considerations for dealing with privacy of users personal information.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "uPP7LjDYsY5hqbZfNgnBm2Iw8pNP2jTZRY8EYXUwSRi3123sMNDF8R116ZSyJcNdKZ4f3bHMpow123LlJbmZ2WdaTnUA117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Partner Resources",
-		"about": "Are there any members-only and partner specific opportunities, and how do these different levels of access impact terms of service.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "ZMrxzb0hAzM858U6mP123wqShO4cEUd2kYTAHfrFtZYBYjjiQIEjl123oewX4oe6ddFAJ58DESg012vS123RrUlpUvRg117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "How We Use Your Information",
-		"about": "Be clear about how information is used. Is it only used as part of operations. Provide straightforward explanations of how information is put to work to power the platform.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "5u7zocSdP51ThSu116qRFvSzKsm2V1235fHXqr4m4HrppxQ4FQeIEQdI11607NO6Q6116qYpBQHk3KA116NF116bRidn9Y7lvA117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Information Sharing",
-		"about": "How is information shared with partners, government, and any potentially external partners. Does this occur via the API, and how does this affect terms of service.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "rKoMEZsMlgppnhYaHeES9ny2KWewDrDkQdtPWbZM11C0AuGWKN39AkRhRv9aeo116ai5TT123kwX82umhdwX3StEMA117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Access To Information",
-		"about": "What levels of access are there. Is everything available via APIs or downloads, or are there restrictions around what you can get access to.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "HHgeLSKBEN8ZlMcPElVPd4rnDmkvuJDIgBgqNzBEjaXVZEJx1162wOvcAcowBwfDM7VLRquVKPXonCwDZoEYEL2Q117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Accuracy of Information",
-		"about": "What are the expectations for accuracy of information available via the platform. What is the bar, and how is this level determined and enforced. ",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "vuxYKqqTV7pqAw5x08M116Sxqt7n6eaMIE7jtlJ5r123ahBMn8BaLMGpE0M69oB3LaRlTr2TeOoETGEyTpuopNiAAQ117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Security",
-		"about": "What level of security is guaranteed as part of platform operations? How does the overall security practices impact the terms of service between platform and consumers?",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "CnHsqEHUXlKwPqVwi116123KCHpKEzWnT2tUYEy123IxpWkWlMYma8uozXkebfZx116r9xDTbaWge7WmtZIlvFhT1166tRZA117117",
-		"building_block_category_id": "XseAVQU3ywd92AWV123Q26PF5Gh1236DqAxcouegKY4b5ULaqSa9WRv7CTkJtgLMo116Npl2WHXatI07ikd123fFkwyeag117117",
-		"name": "Opting Out",
-		"about": "What are the possibilities for opting out of services? Are there data sharing, licensing, or communication areas that can be opted out, or NOT opted out of.",
-		"category_id": "254",
-		"category": "Core Considerations",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Linking",
+		"building_blocks": [
+			{
+				"building_block_id": "opoT0Nk4YCa4x7obeJg123fxigzuf4YPceNZVhsQlWKow117",
+				"building_block_category_id": "GqFiQ19DiGB9UhANZyjnDRYNvm2r2SXFCj75o4MJk9M117",
+				"name": "Links to Non-Operators Web Sites",
+				"about": "What are the levels of responsibility and liability when it comes to external links made available through platform operations.",
+				"category_id": "294",
+				"category": "Linking",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	}
 ]
