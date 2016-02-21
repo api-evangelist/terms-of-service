@@ -7,12 +7,19 @@
 		"website": "http://apilicens.se/en/",
 		"twitter": "",
 		"github": "https://github.com/APILicense",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/APILicense",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swedish-api-license-2.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swedish-api-license-2.png",
-		"tags": null
+		"tags": [
+			"Terms of Service"
+		]
 	},
 	{
 		"id": "VHcUXX1b1WN45GcdGCmHVtIjShXZVxzrNA2SZeyoWf0GF0XEQ5s9A5Jy7DdiZV1J123m0mKuA8oZCVAxxK3tTQ8w117117",
@@ -22,12 +29,19 @@
 		"website": "http://tosdr.org/",
 		"twitter": "https://twitter.com/tosdr",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "http://tosdr.org/blog/index.html",
 		"blogrss": "http://tosdr.org/blog/feed.rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tos-didnt-read-2.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tos-didnt-read-2.png",
-		"tags": null
+		"tags": [
+			"Terms of Service"
+		]
 	},
 	{
 		"id": "MEUkHxMuS9c123i9WJNAkzLTNzB98NPY7B7LJlsa40fD3otgu9YGx116ai3oWVinikEweb62NYGBZIlWpWYFFOPM116g117117",
@@ -37,12 +51,19 @@
 		"website": "https://termsfeed.com",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "https://termsfeed.com/blog/",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/terms-feed.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/terms-feed.png",
-		"tags": null
+		"tags": [
+			"Terms of Service"
+		]
 	},
 	{
 		"id": "N4YE123123cZ1AoEHdl3Xbeh51tZ116ySuL75jRNpK1162tNtBHT116UlbhY33MzfD7SnkMaT2St3WB123VqBN7jLaskK9oSfQ117117",
@@ -52,11 +73,18 @@
 		"website": "https://tosback.org/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": null,
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tosback-logo-2.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tosback-logo-2.png",
-		"tags": null
+		"tags": [
+			"Terms of Service"
+		]
 	}
 ]
