@@ -1,138 +1,4 @@
 ---
-- curated_id: eb964bbb26a1933dc5ca8a9f05fcc0ed
-  item_date: "2012-12-13 22:41:03"
-  title: Federal-Compatible Terms of Service Agreements
-  url: http://www.digitalgov.gov/about/lost-and-found-mapping-page/
-  domain: www.digitalgov.gov
-  image: ""
-- curated_id: 3dd85fa88dcd822d9045cc589fa05da6
-  item_date: "2012-12-17 00:00:00"
-  title: Privacy and Terms of Service Changes on Instagram
-  url: http://blog.instagram.com/post/38143346554/privacy-and-terms-of-service-changes-on-instagram
-  domain: blog.instagram.com
-  image: ""
-- curated_id: c2fbe1415a4a22bfbdbb0c1d9283f587
-  item_date: "2012-12-18 00:00:00"
-  title: Thank you, and were listening
-  url: http://blog.instagram.com/post/38252135408/thank-you-and-were-listening
-  domain: blog.instagram.com
-  image: ""
-- curated_id: 1efc7be08b168814d385ea771f632fdc
-  item_date: "2012-12-20 00:00:00"
-  title: Updated Terms of Service Based on Your Feedback
-  url: http://blog.instagram.com/post/38421250999/updated-terms-of-service-based-on-your-feedback
-  domain: blog.instagram.com
-  image: ""
-- curated_id: 5584c63369ebfcde1cb40b4bcc30fe92
-  item_date: "2013-01-16 15:35:21"
-  title: 'Instagram Upset: Are marketers taking user-generated content for granted?'
-  url: https://blog.compete.com/2013/01/16/instagram-upset-are-marketers-taking-user-generated-content-for-granted/
-  domain: blog.compete.com
-  image: ""
-- curated_id: fae9880739f2f7fdaa223ae20689c873
-  item_date: "2013-02-26 00:00:00"
-  title: API Terms  Conditions Page in Mashape
-  url: http://blog.mashape.com/api-terms-conditions-page-in-mashape/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: f348b0039e0b711c9bca1a0e7d90402e
-  item_date: "2013-03-29 00:00:00"
-  title: Now THIS is how to write your startup?s Terms of Service
-  url: http://thenextweb.com/insider/2013/03/29/now-this-is-how-to-write-a-terms-of-service-document/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 9932fab42946c313ea451976f3d27071
-  item_date: "2013-05-17 00:00:00"
-  title: Lemma what? A guide to Text Processing and Machine Learning API terms
-  url: http://blog.mashape.com/bitcoin-apis-for-the-revolution/
-  domain: blog.mashape.com
-  image: ""
-- curated_id: 537bb28da893cfb268297efa8e021a45
-  item_date: "2013-07-01 00:00:00"
-  title: UK Open Government Licence is now compliant with the Open Definition
-  url: http://blog.okfn.org/2013/07/01/uk-open-government-license-is-now-compliant-with-the-open-definition/
-  domain: blog.okfn.org
-  image: ""
-- curated_id: 14dadc4dccd330d4dbaffe10de93321a
-  item_date: "2013-07-03 09:47:00"
-  title: Machine Readable Rights Statements | Open Data Institute
-  url: http://theodi.org/blog/machine-readable-rights-statements
-  domain: theodi.org
-  image: ""
-- curated_id: fc966443c24b3ace03a12404e392685e
-  item_date: "2013-07-08 16:42:10"
-  title: Developer guidelines updates | Twitter Developers
-  url: https://twittercommunity.com/t/developer-guidelines-updates/13908
-  domain: twittercommunity.com
-  image: ""
-- curated_id: b848d008b914eb13ea17e7adf9ca8b74
-  item_date: "2013-07-09 15:51:38"
-  title: ""
-  url: https://github.com/theodi/open-data-licensing/blob/master/guides/publisher-guide.md
-  domain: github.com
-  image: ""
-- curated_id: f47a735980113a04bd49202720550072
-  item_date: "2013-07-13 09:53:59"
-  title: DBAD by philsturgeon
-  url: http://www.dbad-license.org/
-  domain: www.dbad-license.org
-  image: ""
-- curated_id: d9a3a2a970186b105551cb90d25bdc35
-  item_date: "2013-11-26 08:33:15"
-  title: Swedish API License
-  url: http://apilicens.se/en/
-  domain: apilicens.se
-  image: ""
-- curated_id: faea9ff7d7a498bd3c1bfc968ba9a6f5
-  item_date: "2013-12-12 00:00:00"
-  title: 'Sunlight Foundation: Making US Government Data License-Free'
-  url: http://sunlightfoundation.com/blog/2013/12/12/making-us-government-data-license-free/
-  domain: sunlightfoundation.com
-  image: ""
-- curated_id: 1ff93e9a6457b1df153c3e3715a2ef24
-  item_date: "2013-12-16 16:50:42"
-  title: Advocates Release Best Practices for Making Open Government Data ?License-Free?
-    | E Pluribus Unum
-  url: https://e-pluribusunum.com/2013/12/12/advocates-release-best-practices-for-making-open-government-data-license-free/comment-page-1/
-  domain: e-pluribusunum.com
-  image: ""
-- curated_id: b70775c024be4e3f03a5a01161f94b33
-  item_date: "2013-12-19 00:00:00"
-  title: Api License Agreement
-  url: https://www.cloudwords.com/cloudwords/api-license-agreement
-  domain: www.cloudwords.com
-  image: ""
-- curated_id: 5c134e4dccb79e59688423884eee8038
-  item_date: "2013-12-20 00:08:53"
-  title: Can Developers use APIs and Data Tools like Import.io to Create Commercial
-    Products?
-  url: http://www.programmableweb.com/news/can-developers-use-apis-and-data-tools-import.io-to-create-commercial-products/2013/12/19
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: c7245bdc08ecc58ed3430df6ae244b00
-  item_date: "2014-06-16 00:00:00"
-  title: 'Making a change to our Terms of Use: Requirements for disclosure'
-  url: https://blog.wikimedia.org/2014/06/16/change-terms-of-use-requirements-for-disclosure/
-  domain: blog.wikimedia.org
-  image: ""
-- curated_id: c8bf0291dc9b159bf7bb27026e5052df
-  item_date: "2014-07-22 09:55:20"
-  title: Didnt Read Facebooks Fine Print? Heres Exactly What It Says
-  url: http://www.huffingtonpost.com/2014/07/21/facebook-terms-condition_n_5551965.html
-  domain: www.huffingtonpost.com
-  image: ""
-- curated_id: 660a53f2b939157a2e9353761b25d399
-  item_date: "2014-08-12 00:00:00"
-  title: How to Amend Your Apps Terms of Service for Federal Agencies
-  url: https://zapier.com/blog/federal-government-terms-of-service-amendment/
-  domain: zapier.com
-  image: ""
-- curated_id: f9deaa239b5e4a36bc4fae9ee4c6e63d
-  item_date: "2014-09-25 00:00:00"
-  title: Terms and Conditions of the competition
-  url: https://blog.fotolia.com/us/2014/09/25/terms-and-conditions-of-the-competition/
-  domain: blog.fotolia.com
-  image: ""
 - curated_id: 9d02407f7b46c07c795d04693a949224
   item_date: "2015-01-22 00:00:00"
   title: In AWS cloud contracts (as in life), read before signing
@@ -193,18 +59,18 @@
   url: http://developer.avalara.com/blog/2015/12/15/new-terms-conditions
   domain: developer.avalara.com
   image: ""
+- curated_id: f7fce3b1a5896220a28e10d65546b798
+  item_date: "2016-02-09 00:00:00"
+  title: Amazon adds zombie apocalypse reference to its AWS terms
+  url: http://venturebeat.com/2016/02/09/amazon-adds-zombie-apocalypse-reference-to-its-aws-terms/
+  domain: venturebeat.com
+  image: ""
 - curated_id: 91a257ad3dff3b771038ded8f7df4880
   item_date: "2016-02-09 00:00:00"
   title: The only way to get out of Amazons terms of service is a zombie apocalypse
     (AMZN)
   url: http://www.businessinsider.com/amazon-zombie-clause-2016-2
   domain: www.businessinsider.com
-  image: ""
-- curated_id: f7fce3b1a5896220a28e10d65546b798
-  item_date: "2016-02-09 00:00:00"
-  title: Amazon adds zombie apocalypse reference to its AWS terms
-  url: http://venturebeat.com/2016/02/09/amazon-adds-zombie-apocalypse-reference-to-its-aws-terms/
-  domain: venturebeat.com
   image: ""
 - curated_id: d033e8e317f04b49d061e781e15cb332
   item_date: "2016-02-10 00:00:00"
@@ -218,18 +84,18 @@
   url: http://www.programmableweb.com/news/are-there-api-terms-use-specific-language-privacy-and-security/analysis/2016/02/18
   domain: www.programmableweb.com
   image: ""
-- curated_id: d4482dee8e3729fa8ba5e7004d4169e6
-  item_date: "2016-03-01 00:00:00"
-  title: Does My Website Really Need a Terms and Conditions page?
-  url: https://www.freshbooks.com/blog/does-my-website-really-need-a-terms-and-conditions-page/
-  domain: www.freshbooks.com
-  image: ""
 - curated_id: 499032d96fef4b0a9b0546a23e9102a1
   item_date: "2016-03-01 00:00:00"
   title: Google has redesigned its developer policies with clearer language and visual
     examples
   url: http://thenextweb.com/dd/2016/03/01/google-has-redesigned-its-developer-policies-with-clearer-language-and-visual-examples/
   domain: thenextweb.com
+  image: ""
+- curated_id: d4482dee8e3729fa8ba5e7004d4169e6
+  item_date: "2016-03-01 00:00:00"
+  title: Does My Website Really Need a Terms and Conditions page?
+  url: https://www.freshbooks.com/blog/does-my-website-really-need-a-terms-and-conditions-page/
+  domain: www.freshbooks.com
   image: ""
 - curated_id: 843d725da98e57c553571427ea2fa016
   item_date: "2016-03-16 03:31:24"
@@ -260,5 +126,49 @@
   title: Updates to our Terms of Service and Privacy Policy
   url: https://www.zendesk.com/blog/updates-terms-service-privacy-policy/
   domain: www.zendesk.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-12-17 19:15:39"
+  title: "API Best Practices: The Legal Department \u2013 Hitch Headquarters"
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 2b143c4342738721cf359a86af27e804
+  item_date: "2017-02-06 00:00:00"
+  title: "Violating Terms of Use Isn\u2019t a Crime, EFF Tells Court\u2014Again  "
+  url: https://www.eff.org/deeplinks/2017/02/violating-terms-use-isnt-crime-eff-tells-court-again
+  domain: www.eff.org
+  image: ""
+- curated_id: 1b6ee49d7a5127ee76df0cf8b8327194
+  item_date: "2017-02-07 17:54:56"
+  title: Were updating our Terms of Service soon, and wed like your feedback!
+  url: https://github.com/blog/2314-new-github-terms-of-service
+  domain: github.com
+  image: ""
+- curated_id: 0fd8e7989e29278b8b94c10f2b52a333
+  item_date: "2017-02-08 08:08:41"
+  title: Apples dense terms and conditions become a graphic novel
+  url: http://www.creativebloq.com/news/apples-dense-terms-and-conditions-become-a-graphic-novel
+  domain: www.creativebloq.com
+  image: ""
+- curated_id: e9936443cb3006f10ced04500555d98b
+  item_date: "2017-02-28 11:52:49"
+  title: 'Tweet: We have just updated our Terms of Service! Thank you to our community
+    for helping us clarify and improve them. https://t.co/S9OujeMhQR'
+  url: https://twitter.com/github/statuses/836665480072978432
+  domain: twitter.com
+  image: ""
+- curated_id: 77f8eb992f85fbf1ceb70d81faf3d1d6
+  item_date: "2017-03-04 01:42:10"
+  title: 'Tweet: RT @medjawii: Any lawyer interested to build with me a customizable,
+    clear, open source, API terms of service framework under California juhellip;'
+  url: https://twitter.com/medjawii/status/837577030933835777
+  domain: twitter.com
+  image: ""
+- curated_id: eb13e7a182755d2c15ce061f91cf113e
+  item_date: "2017-04-25 00:00:00"
+  title: "We\u2019re updating our terms of use"
+  url: http://www.xero.com/blog/2017/04/updating-terms-use/
+  domain: www.xero.com
   image: ""
 ...
